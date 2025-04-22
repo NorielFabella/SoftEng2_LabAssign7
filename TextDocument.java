@@ -1,4 +1,4 @@
-class TextDocument implements Document {
+public class TextDocument implements Document {
     int filePath; 
     String encoding;
     int wordCount;

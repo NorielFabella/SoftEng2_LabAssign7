@@ -1,4 +1,4 @@
-class SpreadsheetDocument implements Document {
+public class SpreadsheetDocument implements Document {
     String spreadsheetName;
     int rowCount;
     int columnCount;

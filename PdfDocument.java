@@ -1,4 +1,4 @@
-class PdfDocument implements Document {
+public class PdfDocument implements Document {
     String fileName;
     String author;
     int pageCount;
