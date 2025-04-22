@@ -1,6 +1,6 @@
 # SoftEng2_LabAssign7
 
-![UML](Document Proto.png)
+![UML](https://github.com/NorielFabella/SoftEng2_LabAssign7/blob/main/Document%20Proto.png)
 
 Refer to this UML Diagram.
 
